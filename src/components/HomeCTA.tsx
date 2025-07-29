@@ -8,8 +8,8 @@ import {
   FaMapMarkerAlt,
   FaLinkedin,
   FaUsers,
-  IconType,
 } from "react-icons/fa";
+import { IconType } from "react-icons"; // ✅ Correctly imported here
 
 // Animation variants
 const containerVariants = {
